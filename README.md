@@ -1,6 +1,6 @@
 # 🌟 Gemini AI Chatbox 🌟
 
-Gemini AI Chatbox is a sleek, intelligent chatbot interface powered by the Gemini AI model. Built using **HTML**, **CSS**, and **JavaScript**, it offers a visually engaging, user-friendly way to interact with AI in your web browser. Perfect for learning, prototyping, or integrating conversational AI into your own websites.
+Gemini AI Chatbox is a sleek, intelligent chatbot interface powered by the Gemini AI model. Built using **HTML**, **CSS**, and **JavaScript**, it offers a visually engaging, user-friendly way to interact with AI in your web browser. Perfect for learning, prototyping, or integrating conversational AI into your own websites
 
 --
 
