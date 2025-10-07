@@ -10,7 +10,7 @@ Gemini AI Chatbox is a sleek, intelligent chatbot interface powered by the Gemin
 - 🎨 **Customizable UI:** Easily adapt colors, fonts, layout, and icons.
 - 📱 **Responsive Design:** Works on desktop and mobile.
 - ⚡ **Lightweight:** No frameworks—just HTML, CSS, and JavaScript.
-- 🔒 **Secure:** No user data stored by default.
+- 🔒 **Secure:** No user data stored by default
 
 ---
 
